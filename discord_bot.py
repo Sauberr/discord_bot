@@ -100,6 +100,7 @@ async def help(ctx):
     emb.add_field(name='**Ban**', value='Ban user', inline = False)
     emb.add_field(name='**Unban**', value='Unban user', inline = False)
     emb.add_field(name='**Kick**', value='Kick user', inline = False)
+    emb.add_field(name='**Mute**', value='Mute user', inline = False)
     emb.add_field(name='**Unmute**', value='Unmute user', inline = False)
     emb.add_field(name='**Tempban**', value='Tempban user', inline=False)
     emb.add_field(name='**On_join**', value='Join to user', inline=False)
