@@ -97,7 +97,7 @@ async def on_command_error(ctx, error):
 async def help(ctx):
     emb = discord.Embed(title='Server command navigation', colour=discord.Color.orange())
     emb.add_field(name='**Clear**', value='Clear chat', inline = False)
-    emb.add_field(name='**Ban**', value='Ban use', inline = False)
+    emb.add_field(name='**Ban**', value='Ban user', inline = False)
     emb.add_field(name='**Unban**', value='Unban user', inline = False)
     emb.add_field(name='**Kick**', value='Kick user', inline = False)
     emb.add_field(name='**Unmute**', value='Unmute user', inline = False)
