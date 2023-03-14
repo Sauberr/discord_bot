@@ -4,10 +4,6 @@ import datetime
 import asyncio
 from datetime import datetime, timedelta
 import requests
-import math
-import json
-import random
-import os
 
 TOKEN = 'Your Token Bot'
 
