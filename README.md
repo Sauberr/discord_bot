@@ -24,6 +24,7 @@ This bot was created as a learning project to explore the capabilities of the di
 #### Stack:
 
 - [Python](https://www.python.org/downloads/)
+- [DiscordPY](https://discordpy.readthedocs.io/en/stable/)
 
 
 ## Local Developing
