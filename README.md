@@ -6,18 +6,20 @@ Here's what this bot can do:
 
 Moderation Power:
 
-   Keep your server tidy with mute, unmute, ban, and unban commands.
-   Need to give someone a timeout? Use the temporary ban feature!
-   All moderation commands are designed with clear feedback and easy-to-use syntax.
+      Keep your server tidy with mute, unmute, ban, and unban commands.
+      Need to give someone a timeout? Use the temporary ban feature!
+      All moderation commands are designed with clear feedback and easy-to-use syntax.
 
 Wholesome Fun:
 
-   Who doesn't love cute animals? Generate random cat 🐱 and dog 🐶 pictures to brighten everyone's day.
+      Who doesn't love cute animals? Generate random cat 🐱 and dog 🐶 pictures to brighten everyone's day.
 
 Useful Information:
 
-   Quickly get user information with a simple command, making it easy to learn more about your server members.
-   This bot was created as a learning project to explore the capabilities of the discord library and demonstrate how to interact with the Discord API.  It's a great starting point for anyone interested in building their own Discord bots with Python.
+      Quickly get user information with a simple command, making it easy to learn more about your server members.
+
+   
+This bot was created as a learning project to explore the capabilities of the discord library and demonstrate how to interact with the Discord API.  It's a great starting point for anyone interested in building their own Discord bots with Python.
 
 #### Stack:
 
