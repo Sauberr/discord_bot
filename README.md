@@ -42,3 +42,7 @@ All actions should be executed from the source directory of the project and only
    pip install --upgrade pip
    pip install -r requirements.txt
    ```
+
+## License
+
+This project uses the [MIT] license(https://github.com/Sauberr/discord-bot/blob/master/LICENSE)
